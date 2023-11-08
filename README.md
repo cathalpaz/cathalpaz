@@ -1,7 +1,5 @@
 ### Hello, I'm Cathal 👋
 
-A longtime enthuastic coder from NYC. From creating mods on videogames in middle school, to now building out full stack applications, I'm proud to say I've found my passion and eager to display my skills as part of team!
-
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
