@@ -1,10 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript)
-![Ruby](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Ruby)
+![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python)&nbsp;
+![TypeScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript)&nbsp;
+![Ruby](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Ruby)&nbsp;
 <br>
 
 
