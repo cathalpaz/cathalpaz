@@ -31,11 +31,12 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
-<br>
 
+
+<!--
 ### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathalpaz&layout=compact)
-
+-->
 
 
 <!--
