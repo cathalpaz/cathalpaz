@@ -39,7 +39,7 @@
 -->
 
 ### LeetCode:
-![LeetCode Stats](https://leetcard.jacoblin.cool/cathalpaz?theme=nord&font=Quantico&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/cathalpaz?theme=nord&font=Quantico&ext=heatmap)-->
 <a href='https://leetcode.com/cathalpaz/'>LeetCode Profile</a>
 
 
