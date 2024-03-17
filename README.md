@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathalpaz&layout=compact)
 -->
 
-### LeetCode:
+
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/cathalpaz?theme=nord&font=Quantico&ext=heatmap)-->
 <a href='https://leetcode.com/cathalpaz/'>LeetCode Profile</a>
 
