@@ -1,6 +1,8 @@
+## ✧˖*°࿐ Cathal Paz ✧˖*°࿐ 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
+
 - 👨🏻‍💻 Interested in full stack & ML
-- 📍 Queens born & raised
+- 📍  Queens born & raised
 <!--
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
