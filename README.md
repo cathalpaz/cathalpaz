@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
-
 - 👨🏻‍💻 Interested in full stack & ML
 - 📍 Queens born & raised
 <!--
