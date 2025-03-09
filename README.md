@@ -1,5 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
 
+- 👨🏻‍💻 Interested in full stack & ML
+- 📍 Queens born & raised
+<!--
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -32,7 +35,7 @@
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)&nbsp;
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-
+-->
 <!--
 ### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathalpaz&layout=compact)
